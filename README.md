@@ -1,7 +1,7 @@
 # HandwrittenNumeralRecognition
 ###文档  目录结构：  
 <p>HandwrittenNumeralRecognition/</P>  
-<p>├──Data/ </P> 
+├──Data/
 │   ├────mnlist.zip			  压缩文件中包含所有的图片文件  
 │   └────train_data.zip		已经通过程序处理过的数据文件，是对mnlist.zip中图片经过归类，像素灰度计算之后二进制文件，由于原来的二进制文件太大，因此进行了压缩，解压时请选择加压到当前文件夹，已确保.bin文件在Data根目录中    
 │  
